@@ -50,7 +50,7 @@ dependencies {
     final def navVersion = "2.3.5"
     final def roomVersion = "2.4.0-alpha03"
     final def espressoVersion = "3.4.0"
-    final def allureVersion = "2.2.0"
+    final def allureVersion = "2.4.0"
 
     implementation "androidx.preference:preference-ktx:1.1.1"
 
